@@ -1,0 +1,7 @@
+bottle==0.12.9
+oauthlib==2.0.0
+python-dateutil==2.5.2
+requests==2.11.1
+requests-oauthlib==0.7.0
+tweepy==3.5.0
+twitter==1.17.1
